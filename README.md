@@ -20,7 +20,7 @@ Settings are stored in `localStorage` for persistence across sessions.
 ## 🧪 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/a11y-widget.git
+git clone https://github.com/namansrivastava09/a11y-widget.git
 cd a11y-widget
 npm install
 npm run dev
